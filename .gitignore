@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+target/
+bin/
+
 # =========================
 # Operating System Files
 # =========================
